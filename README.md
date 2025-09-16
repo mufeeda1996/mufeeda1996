@@ -46,12 +46,6 @@
 
 ---
 
-### 🚀 Featured Projects
-- 🏪 [Kalimahypermarket](https://kalimahypermarket.com) – Dynamic PHP-based website with custom CMS.  
-- 🛠 [TexInterest](#) – Revamped & optimized a full-stack platform, improving performance by 60%.  
-- 📈 **Aviano SEO Optimizer** – Boosted PageSpeed score from 40 → 90+ using React & optimization tools.  
-
----
 
 ### 📊 GitHub Stats:
 <p align="center">
