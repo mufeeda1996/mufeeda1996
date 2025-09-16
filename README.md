@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Mufeeda 👋  
+💻 Full Stack Developer | React.js • Node.js • PHP • MySQL • MongoDB  
 
-<!--
-**mufeeda1996/mufeeda1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently learning Next.js & TypeScript  
+🚀 Passionate about building responsive UIs & scalable apps  
+📫 Reach me at: mufeedasyed@gmail.com  
 
-Here are some ideas to get you started:
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Mufeeda's GitHub stats](https://github-readme-stats.vercel.app/api?username=mufeeda1996&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufeeda1996&layout=compact)
