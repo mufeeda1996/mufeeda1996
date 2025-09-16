@@ -7,7 +7,7 @@
 
 ### 🌐 Connect with me:
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/mufeeda-veluthedath/)" target="blank">
+  <a href="https://www.linkedin.com/in/mufeeda-veluthedath/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://github.com/mufeeda1996" target="blank">
