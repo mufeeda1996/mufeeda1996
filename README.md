@@ -49,7 +49,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mufeeda1996&show_icons=true&theme=radical" alt="stats" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufeeda1996&layout=compact&theme=radical" alt="top-langs" />
 </p>
 
